@@ -1,4 +1,4 @@
-# leveling-network-adjustment
+# Adjustment of Leveling Networks
 
 
   Leveling network adjustment code written in MATLAB.
